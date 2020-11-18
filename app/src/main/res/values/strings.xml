@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Grabadora</string>
+    <string name="grabar">Grabar</string>
+    <string name="reproducir">Reproducir</string>
+</resources>
